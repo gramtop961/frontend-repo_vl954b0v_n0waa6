@@ -1,5 +1,5 @@
 {
-  "name": "vibe-generated-app",
+  "name": "inferno-core",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -27,7 +27,8 @@
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.363.0",
-    "tailwind-merge": "^2.2.0"
+    "tailwind-merge": "^2.2.0",
+    "recharts": "^2.8.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
